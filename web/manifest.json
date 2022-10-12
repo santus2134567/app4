@@ -1,6 +1,6 @@
 {
-    "name": "app4",
-    "short_name": "app4",
+    "name": "app02_diceapp",
+    "short_name": "app02_diceapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
